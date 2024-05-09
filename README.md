@@ -10,4 +10,4 @@ INTEGRANTES:
 
 - RIVERA VELAZCO, Mauricio Gabriel (Desarrollador)
 
-- (Desarrolador)
+- ZACARIAS LOPEZ, Lenning Andree (Desarrolador)
